@@ -1,0 +1,14 @@
+.cache
+.idea
+
+**/.reports
+**/coverage
+**/.release
+**/lib
+**/cjs
+
+**/node_modules
+**/.DS_Store
+**/.env*
+**/!.env.example.*
+**/__*

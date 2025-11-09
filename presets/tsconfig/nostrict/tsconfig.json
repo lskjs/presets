@@ -1,0 +1,12 @@
+{
+  "extends": "../base/tsconfig.json",
+  "compilerOptions": {
+    "strict": false,
+
+    "ignoreDeprecations": "5.0",
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
+  },
+}
+
+

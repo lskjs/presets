@@ -1,0 +1,30 @@
+{
+  "name": "@lsk4/biome-config",
+  "version": "4.40.0",
+  "description": "LSK Biome configuration preset",
+  "keywords": [
+    "biome",
+    "config",
+    "lsk",
+    "lskjs"
+  ],
+  "homepage": "https://github.com/lskjs/lskjs-presets#readme",
+  "bugs": {
+    "url": "https://github.com/lskjs/lskjs-presets/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lskjs/lskjs-presets.git",
+    "directory": "presets/biome-config"
+  },
+  "license": "MIT",
+  "author": "Igor Suvorov <hi@isuvorov.com>",
+  "main": "biome.json",
+  "files": [
+    "biome.json",
+    "strict"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
