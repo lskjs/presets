@@ -52,5 +52,9 @@ jobs:
           GIT_COMMITTER_NAME: LSK.js
           GIT_COMMITTER_EMAIL: lskjsru@gmail.com
         run: |
-          echo "//registry.npmjs.org/:_authToken=\${NPM_TOKEN}" > .npmrc && \
+          if [ -z "${NPM_TOKEN}" ]; then
+            echo "Error: NPM_TOKEN is not set"
+            exit 1
+          fi
+          echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc && \
           pnpm -r --workspace-concurrency=1 exec -- npx --no-install semantic-release -e semantic-release-monorepo

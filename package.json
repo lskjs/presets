@@ -19,6 +19,10 @@
   "devDependencies": {
     "@lsk4/eslint-config": "workspace:^",
     "@lsk4/tsconfig": "workspace:^",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release-monorepo": "^8.0.2",
+    "semantic-release": "^25.0.1",
     "typescript": "^5.5.4",
     "uvu": "^0.5.6",
     "ycmd": "^0.26.0"
