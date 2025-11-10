@@ -1,16 +1,18 @@
-# @lskjs/semantic-release-config
+# ☂️ LSK.js – Semantic Release Config Preset
 
 [![NPM version](https://badgen.net/npm/v/@lskjs/semantic-release-config)](https://www.npmjs.com/package/@lskjs/semantic-release-config)
-[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
+[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
 [![Install size](https://packagephobia.com/badge?p=@lskjs/semantic-release-config)](https://packagephobia.com/result?p=@lskjs/semantic-release-config)
-[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
+[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
-> Part of [@lskjs/presets](https://github.com/lskjs/lskjs-presets) monorepo
+> Part of [@lskjs/presets](https://github.com/lskjs/presets) monorepo
 
 <div align="center">
   <p><strong>Semantic Release configuration preset for automated versioning & publishing</strong></p>
 </div>
+
+<img src="https://github.com/lskjs/presets/raw/main/docs/logo.png" align="right" width="120" height="120" />
 
 **🚀 Automated**: Fully automated version management  
 **📦 Multi-plugin**: Changelog, npm, GitHub releases  

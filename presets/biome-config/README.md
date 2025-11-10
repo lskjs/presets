@@ -1,16 +1,18 @@
-# @lskjs/biome-config
+# # ☂️ LSK.js – Biome Config Preset
 
 [![NPM version](https://badgen.net/npm/v/@lskjs/biome-config)](https://www.npmjs.com/package/@lskjs/biome-config)
-[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
+[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
 [![Install size](https://packagephobia.com/badge?p=@lskjs/biome-config)](https://packagephobia.com/result?p=@lskjs/biome-config)
-[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
+[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
-> Part of [@lskjs/presets](https://github.com/lskjs/lskjs-presets) monorepo
+> Part of [@lskjs/presets](https://github.com/lskjs/presets) monorepo
 
 <div align="center">
   <p><strong>Biome configuration preset for LSK.js projects with linting & formatting</strong></p>
 </div>
+
+<img src="https://github.com/lskjs/presets/raw/main/docs/logo.png" align="right" width="120" height="120" />
 
 **⚡ Fast**: Lightning-fast linting and formatting  
 **🎯 All-in-One**: Linter + Formatter in one tool  
@@ -71,9 +73,9 @@ For stricter linting rules:
 
 ## 🔗 Links
 
-- [Monorepo](https://github.com/lskjs/lskjs-presets)
+- [Monorepo](https://github.com/lskjs/presets)
 - [npm package](https://www.npmjs.com/package/@lskjs/biome-config)
-- [GitHub Issues](https://github.com/lskjs/lskjs-presets/issues)
+- [GitHub Issues](https://github.com/lskjs/presets/issues)
 - [Biome Documentation](https://biomejs.dev/)
 
 ## 📝 License

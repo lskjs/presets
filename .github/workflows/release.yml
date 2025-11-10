@@ -19,6 +19,14 @@ jobs:
       pull-requests: write # to be able to comment on released pull requests
       id-token: write # to enable use of OIDC for trusted publishing and npm provenance
     steps:
+      - name: Check NPM_TOKEN
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "${NPM_TOKEN}" ]; then
+            echo "Error: NPM_TOKEN is not set"
+            exit 1
+          fi
       - name: Checkout
         uses: actions/checkout@v4
         with:

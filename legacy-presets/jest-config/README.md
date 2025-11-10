@@ -1,12 +1,12 @@
 # @lsk4/jest-config
 
 [![NPM version](https://badgen.net/npm/v/@lsk4/jest-config)](https://www.npmjs.com/package/@lsk4/jest-config)
-[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
+[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
 [![Install size](https://packagephobia.com/badge?p=@lsk4/jest-config)](https://packagephobia.com/result?p=@lsk4/jest-config)
-[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
+[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
-> Part of [@lskjs/presets](https://github.com/lskjs/lskjs-presets) monorepo
+> Part of [@lskjs/presets](https://github.com/lskjs/presets) monorepo
 
 <div align="center">
   <p><strong>Jest configuration preset for LSK.js projects with TypeScript support</strong></p>
@@ -135,9 +135,9 @@ JUnit XML reports are automatically generated for CI/CD integration:
 
 ## 🔗 Links
 
-- [Monorepo](https://github.com/lskjs/lskjs-presets)
+- [Monorepo](https://github.com/lskjs/presets)
 - [npm package](https://www.npmjs.com/package/@lsk4/jest-config)
-- [GitHub Issues](https://github.com/lskjs/lskjs-presets/issues)
+- [GitHub Issues](https://github.com/lskjs/presets/issues)
 
 ## 📝 License
 

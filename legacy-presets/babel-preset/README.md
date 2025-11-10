@@ -1,12 +1,12 @@
 # @lsk4/babel-preset
 
 [![NPM version](https://badgen.net/npm/v/@lsk4/babel-preset)](https://www.npmjs.com/package/@lsk4/babel-preset)
-[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
+[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
 [![Install size](https://packagephobia.com/badge?p=@lsk4/babel-preset)](https://packagephobia.com/result?p=@lsk4/babel-preset)
-[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
+[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
-> Part of [@lskjs/presets](https://github.com/lskjs/lskjs-presets) monorepo
+> Part of [@lskjs/presets](https://github.com/lskjs/presets) monorepo
 
 <div align="center">
   <p><strong>Babel preset for LSK.js projects with modern JavaScript & TypeScript support</strong></p>
@@ -80,9 +80,9 @@ module.exports = {
 
 ## 🔗 Links
 
-- [Monorepo](https://github.com/lskjs/lskjs-presets)
+- [Monorepo](https://github.com/lskjs/presets)
 - [npm package](https://www.npmjs.com/package/@lsk4/babel-preset)
-- [GitHub Issues](https://github.com/lskjs/lskjs-presets/issues)
+- [GitHub Issues](https://github.com/lskjs/presets/issues)
 
 ## 📝 License
 

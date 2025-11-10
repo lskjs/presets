@@ -1,7 +1,7 @@
 {
   "name": "@lskjs/eslint-config",
   "version": "4.40.0",
-  "description": "Eslint preset for LSK.js projects",
+  "description": "LSK.js - ESLint configuration preset",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
   "contributors": [
     "Andrey Kondalov <andrey@kondalov.com> (https://github.com/yukioru)"
@@ -42,9 +42,13 @@
   },
   "main": "index.js",
   "///": "//////////========================/////////========================/////////========================/////////",
-  "repository": "https://github.com/lskjs/lskjs/tree/master//libs-presets/eslint-config",
-  "homepage": "https://github.com/lskjs/lskjs/tree/master//libs-presets/eslint-config",
-  "bugs": "https://github.com/lskjs/lskjs/issues",
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lskjs/preset.git",
+    "directory": "presets/eslint-config"
+  },
+  "homepage": "https://github.com/lskjs/presets/tree/main/presets/eslint-config",
+  "bugs": "https://github.com/lskjs/presets/issues",
   "license": "MIT",
   "publishConfig": {
     "access": "public",

@@ -1,31 +1,15 @@
 {
   "name": "@lskjs/semantic-release-config",
   "version": "4.40.0",
-  "description": "LSK semantic-release configuration preset",
-  "keywords": [
-    "semantic-release",
-    "config",
-    "lsk",
-    "lskjs"
-  ],
-  "homepage": "https://github.com/lskjs/lskjs-presets#readme",
-  "bugs": {
-    "url": "https://github.com/lskjs/lskjs-presets/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lskjs/lskjs-presets.git",
-    "directory": "presets/semantic-release-config"
-  },
-  "license": "MIT",
-  "author": "Igor Suvorov <hi@isuvorov.com>",
-  "main": "index.js",
-  "files": [
-    "index.js",
-    "monorepo.js"
-  ],
-  "publishConfig": {
-    "access": "public"
+  "description": "LSK.js - semantic-release configuration preset",
+  "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
+  "private": false,
+  "scripts": {
+    "dev": "     ycmd dev",
+    "build": "   ycmd build",
+    "test": "    echo skip ycmd test",
+    "prepack": " ycmd prepack",
+    "release": " ycmd release"
   },
   "peerDependencies": {
     "@semantic-release/changelog": "^6.0.0",
@@ -40,5 +24,32 @@
     "semantic-release-monorepo": {
       "optional": true
     }
-  }
+  },
+  "//": "///////////========================/////////========================/////////========================/////////",
+  "files": [
+    "index.js",
+    "monorepo.js"
+  ],
+  "main": "index.js",
+  "///": "//////////========================/////////========================/////////========================/////////",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lskjs/presets.git",
+    "directory": "presets/semantic-release-config"
+  },
+  "homepage": "https://github.com/lskjs/presets/tree/main/presets/semantic-release-config",
+  "bugs": "https://github.com/lskjs/presets/issues",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "semantic-release",
+    "config",
+    "preset",
+    "lsk",
+    "lskjs"
+  ],
+  "////": "/////////========================/////////========================/////////========================/////////"
 }

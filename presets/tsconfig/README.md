@@ -1,16 +1,18 @@
-# @lskjs/tsconfig
+# ☂️ LSK.js – TypeScript Config Presets
 
 [![NPM version](https://badgen.net/npm/v/@lskjs/tsconfig)](https://www.npmjs.com/package/@lskjs/tsconfig)
-[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
+[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
 [![Install size](https://packagephobia.com/badge?p=@lskjs/tsconfig)](https://packagephobia.com/result?p=@lskjs/tsconfig)
-[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
+[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
-> Part of [@lskjs/presets](https://github.com/lskjs/lskjs-presets) monorepo
+> Part of [@lskjs/presets](https://github.com/lskjs/presets) monorepo
 
 <div align="center">
   <p><strong>TypeScript configuration presets for LSK.js projects</strong></p>
 </div>
+
+<img src="https://github.com/lskjs/presets/raw/main/docs/logo.png" align="right" width="120" height="120" />
 
 **🎯 Strict by Default**: Production-ready strict configuration  
 **📦 Multiple Targets**: Base, Default, Legacy, Strict, NoStrict  
@@ -162,9 +164,9 @@ Override any settings in your `tsconfig.json`:
 
 ## 🔗 Links
 
-- [Monorepo](https://github.com/lskjs/lskjs-presets)
+- [Monorepo](https://github.com/lskjs/presets)
 - [npm package](https://www.npmjs.com/package/@lskjs/tsconfig)
-- [GitHub Issues](https://github.com/lskjs/lskjs-presets/issues)
+- [GitHub Issues](https://github.com/lskjs/presets/issues)
 - [TypeScript Docs](https://www.typescriptlang.org/docs/)
 
 ## 📝 License

@@ -1,7 +1,7 @@
 {
   "name": "@lskjs/tsconfig",
   "version": "4.40.0",
-  "description": "TS configs for LSK.js projects",
+  "description": "LSK.js - TypeScript configuration presets",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
   "private": false,
   "scripts": {
@@ -45,17 +45,23 @@
     "README.md"
   ],
   "///": "//////////========================/////////========================/////////========================/////////",
-  "repository": "https://github.com/lskjs/lskjs/tree/master//libs-presets/tsconifg",
-  "homepage": "https://github.com/lskjs/lskjs/tree/master//libs-presets/tsconifg",
-  "bugs": "https://github.com/lskjs/lskjs/issues",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lskjs/presets.git",
+    "directory": "presets/tsconfig"
+  },
+  "homepage": "https://github.com/lskjs/presets/tree/main/presets/tsconfig",
+  "bugs": "https://github.com/lskjs/presets/issues",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
-    "eslint",
+    "typescript",
+    "tsconfig",
     "config",
+    "lsk",
     "lskjs"
   ],
   "////": "/////////========================/////////========================/////////========================/////////"
