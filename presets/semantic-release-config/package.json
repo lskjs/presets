@@ -8,7 +8,7 @@
     "dev": "     ycmd dev",
     "build": "   ycmd build",
     "test": "    echo skip ycmd test",
-    "prepack": " ycmd prepack",
+    "prepack": " echo ycmd prepack",
     "release": " ycmd release"
   },
   "peerDependencies": {
