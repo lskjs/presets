@@ -17,8 +17,8 @@
     "@size-limit/preset-small-lib": "^11.1.4"
   },
   "devDependencies": {
-    "@lsk4/eslint-config": "workspace:^",
-    "@lsk4/tsconfig": "workspace:^",
+    "@lsk4/eslint-config": "4",
+    "@lsk4/tsconfig": "4",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "semantic-release-monorepo": "^8.0.2",
