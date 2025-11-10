@@ -1,7 +1,7 @@
 # ☂️ LSK.js – Presets Monorepo
 
-[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
-[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
+[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
+[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
 <div align="center">
@@ -208,8 +208,8 @@ MIT © [Igor Suvorov](https://github.com/isuvorov)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/lskjs/lskjs-presets)
-- [Issues](https://github.com/lskjs/lskjs-presets/issues)
+- [GitHub Repository](https://github.com/lskjs/presets)
+- [Issues](https://github.com/lskjs/presets/issues)
 - [Telegram](https://t.me/isuvorov)
 
 ---
