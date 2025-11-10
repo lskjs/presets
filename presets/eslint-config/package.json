@@ -1,5 +1,5 @@
 {
-  "name": "@lsk4/eslint-config",
+  "name": "@lskjs/eslint-config",
   "version": "4.40.0",
   "description": "Eslint preset for LSK.js projects",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",

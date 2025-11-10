@@ -1,5 +1,5 @@
 {
-  "name": "@lsk4/biome-config",
+  "name": "@lskjs/biome-config",
   "version": "4.40.0",
   "description": "LSK Biome configuration preset",
   "keywords": [

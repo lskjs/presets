@@ -1,5 +1,5 @@
 {
-  "name": "@lsk4/tsconfig",
+  "name": "@lskjs/tsconfig",
   "version": "4.40.0",
   "description": "TS configs for LSK.js projects",
   "author": "Igor Suvorov <hi@isuvorov.com> (https://github.com/isuvorov)",
