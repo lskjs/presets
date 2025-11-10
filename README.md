@@ -1,7 +1,7 @@
 # ☂️ LSK.js – Presets Monorepo
 
-[![Tests](https://github.com/lskjs/presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/presets/actions/workflows/release.yml)
-[![License](https://badgen.net/github/license/lskjs/presets)](https://github.com/lskjs/presets/blob/main/LICENSE)
+[![Tests](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml/badge.svg)](https://github.com/lskjs/lskjs-presets/actions/workflows/release.yml)
+[![License](https://badgen.net/github/license/lskjs/lskjs-presets)](https://github.com/lskjs/lskjs-presets/blob/main/LICENSE)
 [![Ask me in Telegram](https://img.shields.io/badge/Ask%20me%20in-Telegram-brightblue.svg)](https://t.me/isuvorov)
 
 <div align="center">
@@ -29,13 +29,13 @@
 | **[@lsk4/jest-config]** | [![npm](https://badgen.net/npm/v/@lsk4/jest-config)](https://www.npmjs.com/package/@lsk4/jest-config) | [![size](https://packagephobia.com/badge?p=@lsk4/jest-config)](https://packagephobia.com/result?p=@lsk4/jest-config) | Jest config with TypeScript support |
 | **[@lsk4/tsup-config]** | [![npm](https://badgen.net/npm/v/@lsk4/tsup-config)](https://www.npmjs.com/package/@lsk4/tsup-config) | [![size](https://packagephobia.com/badge?p=@lsk4/tsup-config)](https://packagephobia.com/result?p=@lsk4/tsup-config) | TSUP bundler config for libraries |
 
-[@lsk4/babel-preset]: ./presets/babel-preset
-[@lskjs/eslint-config]: ./legacy-presets/eslint-config
-[@lsk4/jest-config]: ./presets/jest-config
-[@lskjs/tsconfig]: ./legacy-presets/tsconfig
-[@lsk4/tsup-config]: ./presets/tsup-config
-[@lskjs/biome-config]: ./legacy-presets/biome-config
-[@lskjs/semantic-release-config]: ./legacy-presets/semantic-release-config
+[@lsk4/babel-preset]: ./legacy-presets/babel-preset
+[@lskjs/eslint-config]: ./presets/eslint-config
+[@lsk4/jest-config]: ./legacy-presets/jest-config
+[@lskjs/tsconfig]: ./presets/tsconfig
+[@lsk4/tsup-config]: ./legacy-presets/tsup-config
+[@lskjs/biome-config]: ./presets/biome-config
+[@lskjs/semantic-release-config]: ./presets/semantic-release-config
 
 ## 🚀 Quick Start
 
@@ -208,8 +208,8 @@ MIT © [Igor Suvorov](https://github.com/isuvorov)
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/lskjs/presets)
-- [Issues](https://github.com/lskjs/presets/issues)
+- [GitHub Repository](https://github.com/lskjs/lskjs-presets)
+- [Issues](https://github.com/lskjs/lskjs-presets/issues)
 - [Telegram](https://t.me/isuvorov)
 
 ---
