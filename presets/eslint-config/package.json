@@ -44,7 +44,7 @@
   "///": "//////////========================/////////========================/////////========================/////////",
  "repository": {
     "type": "git",
-    "url": "git+https://github.com/lskjs/preset.git",
+    "url": "git+https://github.com/lskjs/presets.git",
     "directory": "presets/eslint-config"
   },
   "homepage": "https://github.com/lskjs/presets/tree/main/presets/eslint-config",
