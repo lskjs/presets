@@ -1,0 +1,51 @@
+<svg width="103.8" height="20" viewBox="0 0 1038 200"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MADE BY LSK">
+  <title>MADE BY LSK</title>
+
+  <linearGradient id="BzgHd" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+
+  <mask id="RoMaC">
+    <rect width="1038" height="200" rx="30" fill="#FFF"/>
+  </mask>
+
+  <!-- 
+    <g mask="url(#RoMaC)">
+      <rect width="182" height="200" fill="#E43"/>
+      <rect width="856" height="200" fill="#E43" x="182"/>
+      <rect width="1038" height="200" fill="url(#BzgHd)"/>
+    </g> -->
+
+  <g mask="url(#RoMaC)">
+    <rect width="182" height="200" fill="#2B2B2B"/>
+      <rect width="856" height="200" fill="#E43" x="182"/>
+
+    <rect width="1038" height="200" fill="url(#BzgHd)"/>
+  </g>
+
+  <!-- L из лего-кубиков -->
+  <g transform="translate(40 20) scale(0.8)">
+    <!-- жёлтый -->
+    <rect x="0" y="0" width="60" height="60" rx="10" fill="#FFD93D"/>
+    <!-- красный -->
+    <rect x="0" y="60" width="60" height="60" rx="10" fill="#E53935"/>
+    <!-- синие -->
+    <rect x="0"  y="120" width="60" height="60" rx="10" fill="#1E66D0"/>
+    <rect x="60" y="120" width="60" height="60" rx="10" fill="#1E66D0"/>
+  </g>
+
+  <g aria-hidden="true"
+     fill="#fff"
+     text-anchor="start"
+     font-family="Verdana,DejaVu Sans,sans-serif"
+     font-size="110">
+    <text x="237" y="148" textLength="756" fill="#000" opacity="0.25">
+      Made by LSK
+    </text>
+    <text x="227" y="138" textLength="756">
+      Made by LSK
+    </text>
+  </g>
+</svg>
