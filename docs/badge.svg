@@ -2,10 +2,6 @@
      xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MADE BY LSK">
   <title>MADE BY LSK</title>
 
-  <linearGradient id="BzgHd" x2="0" y2="100%">
-    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
-    <stop offset="1" stop-opacity=".1"/>
-  </linearGradient>
 
   <mask id="RoMaC">
     <rect width="1038" height="200" rx="30" fill="#FFF"/>
