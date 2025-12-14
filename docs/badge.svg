@@ -1,34 +1,28 @@
-<svg width="103.8" height="20" viewBox="0 0 1038 200"
+<svg width="114" height="20" viewBox="0 0 1142 200"
      xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MADE BY LSK">
-  <title>MADE BY LSK</title>
+  <title>Made by LSK.js</title>
 
+  <linearGradient id="BzgHd" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
 
   <mask id="RoMaC">
-    <rect width="1038" height="200" rx="30" fill="#FFF"/>
+    <rect width="1142" height="200" rx="30" fill="#FFF"/>
   </mask>
 
-  <!-- 
-    <g mask="url(#RoMaC)">
-      <rect width="182" height="200" fill="#E43"/>
-      <rect width="856" height="200" fill="#E43" x="182"/>
-      <rect width="1038" height="200" fill="url(#BzgHd)"/>
-    </g> -->
-
   <g mask="url(#RoMaC)">
-      <rect width="856" height="200" fill="#E43" x="182"/>
-
-    <rect width="1038" height="200" fill="url(#BzgHd)"/>
+    <rect width="960" height="200" fill="#E43" x="182"/>
+    <!-- 2B2B2B -->
+    <!-- E43 -->
+    <rect width="1142" height="200" fill="url(#BzgHd)"/>
   </g>
 
-  <!-- L из лего-кубиков -->
-  <g transform="translate(40 20) scale(0.8)">
-    <!-- жёлтый -->
-    <rect x="0" y="0" width="60" height="60" rx="10" fill="#FFD93D"/>
-    <!-- красный -->
-    <rect x="0" y="60" width="60" height="60" rx="10" fill="#E53935"/>
-    <!-- синие -->
-    <rect x="0"  y="120" width="60" height="60" rx="10" fill="#1E66D0"/>
-    <rect x="60" y="120" width="60" height="60" rx="10" fill="#1E66D0"/>
+  <g transform="translate(30 00)">
+    <rect x="0" y="0" width="66" height="66" rx="10" fill="#FFD93D"/>
+    <rect x="0" y="67" width="66" height="66" rx="10" fill="#E53935"/>
+    <rect x="0"  y="134" width="66" height="66" rx="10" fill="#1E66D0"/>
+    <rect x="67" y="134" width="66" height="66" rx="10" fill="#1E66D0"/>
   </g>
 
   <g aria-hidden="true"
@@ -36,11 +30,13 @@
      text-anchor="start"
      font-family="Verdana,DejaVu Sans,sans-serif"
      font-size="110">
-    <text x="237" y="148" textLength="756" fill="#000" opacity="0.25">
-      Made by LSK
+    <text x="255" y="148" textLength="820" fill="#000" opacity="0.25">
+      Made by LSK.js
     </text>
-    <text x="227" y="138" textLength="756">
-      Made by LSK
+    <text x="245" y="138" textLength="820">
+      Made by LSK.js
     </text>
   </g>
 </svg>
+
+
